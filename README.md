@@ -59,11 +59,11 @@ For more information on the v2 (USB type C) board, take a look at [this post](ht
 ## Images
 v1 KiCAD render:
 
-![v1 KiCAD render](v1-render.webp?raw=true "KiCAD render of the v1 board")
+![v1 KiCAD render](render-v1.webp?raw=true "KiCAD render of the v1 board")
 
 v2 KiCAD render:
 
-![v2 KiCAD render](v2-render.webp?raw=true "KiCAD render of the v2 board")
+![v2 KiCAD render](render-v2.webp?raw=true "KiCAD render of the v2 board")
 
 ## KiCAD
 The files in this project were created using KiCAD. To open these files, make sure you're using KiCAD v9 or above.
